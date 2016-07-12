@@ -1,0 +1,7 @@
+{
+    "name": "sam-moodle/snap",
+    "type": "moodle-theme",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
